@@ -22,6 +22,10 @@ The dataset contains information about:
 - Understand customer purchasing patterns.
 - Analyze returns and shipping performance.
 
+## Dashboard Preview
+
+![Global Superstore Dashboard](dashboard.png)
+
 ## Project Files
 - Excel workbook containing the dataset, analysis and dashboard.
 
